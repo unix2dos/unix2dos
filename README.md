@@ -7,13 +7,13 @@
 
 
 
-**Talking about Personal Stuffs:**
-<!-- Any image aligned to the right. Beware the width  -->
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/unix2dos/unix2dos/08cd7a97e8450f397a40f5635002b700353e3324/git-header.svg" />
-
-- 📫 How to reach me: [@levonfly](https://twitter.com/levonfly)
-
-
-
 
 ![](https://github-readme-stats.vercel.app/api?username=unix2dos)
+
+
+<!-- Any image aligned to the right. Beware the width  -->
+<!--<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/unix2dos/unix2dos/08cd7a97e8450f397a40f5635002b700353e3324/git-header.svg" />-->
+
+
+
+
