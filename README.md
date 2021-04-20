@@ -24,8 +24,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Go                12 hrs 1 min    ██████████████████████▒░░   89.49 % 
-JSON              1 hr 18 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Protocol Buffer   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Go                17 hrs 26 mins  ███████████████████████░░   92.46 % 
+JSON              1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Protocol Buffer   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 <!--END_SECTION:waka-->
