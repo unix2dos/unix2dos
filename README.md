@@ -24,7 +24,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Go                1 hr 57 mins    ████████████████████████░   95.40 % 
-Git Config        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Go                2 hrs 48 mins   █████████████████████████   99.96 % 
 ```
 <!--END_SECTION:waka-->
