@@ -1,11 +1,13 @@
 ## Hi, I'm Levon, A Golang Developer 🚀 from China.
 
 [![Twitter](https://img.shields.io/badge/-levonfly-1ca0f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/levonfly)
-[![visits](https://visitor.vercel.app/page/unix2dos?color=light-green)](https://github.com/unix2dos/)
+
+
+<!-- [![visits](https://visitor.vercel.app/page/unix2dos?color=light-green)](https://github.com/unix2dos/) -->
 
 &nbsp;  
 
-<!-- - ✍️ [Blogger](https://www.liuvv.com)-->
+- ✍️ [Blogger](https://www.liuvv.com)
 
 
 <!-- Any image aligned to the right. Beware the width  -->
