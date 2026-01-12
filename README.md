@@ -1,4 +1,4 @@
-## Hi, I'm Levon, A Golang Developer 🚀 from China.
+## Hi, I'm Levon, AI Developer 🚀 from China.
 
 
 ✍️ [Blogger](https://www.liuvv.com)
